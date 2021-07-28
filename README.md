@@ -2,10 +2,11 @@
 
 check NGINX version by nginx -v 
 
-
+ ``` 
 wget https://nginx.org/download/nginx-1.18.0.tar.gz
 tar xvfz nginx-1.18.0.tar.gz
 cd nginx-1.18.0
+```
 
 wget http://nginx.org/download/nginx-1.21.1.tar.gz
 tar xvfz nginx-1.21.1.tar.gz
@@ -14,7 +15,7 @@ cd nginx-1.21.1/
 sudo apt-get update
 sudo apt install libmaxminddb0 libmaxminddb-dev mmdb-bin
 sudo apt-get install build-essential
-sudo apt-get install libpcre3-dev zlib1g-dev libssl-dev libxml2-dev libxslt-dev libgd-dev
+ sudo apt-get install libpcre3-dev zlib1g-dev libssl-dev libxml2-dev libxslt-dev libgd-dev
 
 
 
