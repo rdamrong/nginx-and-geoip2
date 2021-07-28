@@ -1,4 +1,4 @@
-# nginx-and-geoip2
+# How to compile Geoip Dynamic Module for NGINX Open Source that installed in Ubuntu 20.04 LTS
 0. Update, Upgrade and verify Ubuntu version
 ```
 $ sudo apt update
